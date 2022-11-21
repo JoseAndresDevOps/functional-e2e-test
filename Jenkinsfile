@@ -15,7 +15,7 @@ spec:
 
   - name: shell
 
-    image: joseandresdevops/nodonodejs:1.0
+    image: joseandresdevops/nuevojava:1.0
 
     volumeMounts:
 
